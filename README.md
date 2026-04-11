@@ -81,6 +81,9 @@ This project is for Git Assignment 1.
 ## Usage
 This repository demonstrates Git operations on my ML project.
 
+##
+This is FINAL MAIN VERSION
+
 ## 📬 Contact
 
 For improvements, questions, or collaboration, feel free to reach out.
