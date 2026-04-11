@@ -76,6 +76,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 4. Run `ML_models.ipynb` for model training and evaluation.
 
 ---
+## Introduction
+This project is for Git Assignment 1.
 
 ## 📬 Contact
 
