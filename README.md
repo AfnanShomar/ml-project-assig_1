@@ -67,6 +67,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ---
+(This for conflict purposes) #Intro
 
 ## 🚀 How to Run
 
