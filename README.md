@@ -67,7 +67,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ---
-(This for conflict purposes) #Intro
+This line was created while resolving a merge conflict.
 
 ## 🚀 How to Run
 
@@ -79,6 +79,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ---
 ## Introduction
 This project is for Git Assignment 1.
+## Usage
+This repository demonstrates Git operations on my ML project. (Afnan)  
+##
+This is Operations 
 
 ## 📬 Contact
 
