@@ -67,7 +67,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ---
-(This for conflict purposes)#main
+This line was created while resolving a merge conflict.
+
 ## 🚀 How to Run
 
 1. Clean and format raw CSV data in Google Sheets if needed (e.g., split rows on slashes).
